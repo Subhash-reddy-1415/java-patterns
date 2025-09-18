@@ -9,22 +9,17 @@ This program prints a block-style letter **B** using nested loops in Java.
 ## 🖥️ Output
 When run, the program prints:
 
-
-                * 
-
-                * 
-
-                * 
-
-                * 
-
-                * 
-
-                * 
-
-                * 
-
-                * 
+* * * * * * * * * * * * 
+*                     * 
+*                     * 
+*                     * 
+* * * * * * * * * * * * 
+*                     * 
+*                     * 
+*                     * 
+*                     * 
+*                     * 
+* * * * * * * * * * * * 
 
 
 This visually resembles the capital letter **B**.
