@@ -2,6 +2,8 @@
 
 Write a Java program to print the following pattern:
 
+Ascending of numeral
+
 1
 12
 123
